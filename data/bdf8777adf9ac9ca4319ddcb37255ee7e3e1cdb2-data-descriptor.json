@@ -1,0 +1,11 @@
+{
+   "owner-url": "http://localhost:9090/",
+   "meta-data": [
+      "data",
+      "image",
+      "jpg"
+   ],
+   "description": "This is some sample image data.",
+   "data-url": "http://localhost/bdf8777adf9ac9ca4319ddcb37255ee7e3e1cdb2-data",
+   "data-hash-sha1": "bdf8777adf9ac9ca4319ddcb37255ee7e3e1cdb2"
+}

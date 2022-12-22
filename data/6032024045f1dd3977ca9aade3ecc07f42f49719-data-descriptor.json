@@ -1,0 +1,11 @@
+{
+   "owner-url": "http://localhost:9090/",
+   "meta-data": [
+      "data",
+      "textual",
+      "json"
+   ],
+   "description": "This is some sample text data.",
+   "data-url": "http://localhost/6032024045f1dd3977ca9aade3ecc07f42f49719-data",
+   "data-hash-sha1": "6032024045f1dd3977ca9aade3ecc07f42f49719"
+}

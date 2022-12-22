@@ -1,0 +1,5 @@
+{
+   "user-id": "example-user",
+   "check-phrase": "albatros",
+   "decryption-url": "./access-profiles/decrypt-example-user.pem"
+}

@@ -1,0 +1,11 @@
+{
+   "meta-data": [
+      "data",
+      "textual",
+      "json"
+   ],
+   "original-data-name": "example-data.json",
+   "data-type": "json",
+   "data-url": "http://localhost/6032024045f1dd3977ca9aade3ecc07f42f49719-data",
+   "encryption-key-path": "./data-profiles/6032024045f1dd3977ca9aade3ecc07f42f49719-key"
+}

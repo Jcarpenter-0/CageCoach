@@ -1,0 +1,11 @@
+{
+   "meta-data": [
+      "data",
+      "image",
+      "jpg"
+   ],
+   "original-data-name": "smiling-buddha-example.jpg",
+   "data-type": "jpg",
+   "data-url": "http://localhost/bdf8777adf9ac9ca4319ddcb37255ee7e3e1cdb2-data",
+   "encryption-key-path": "./data-profiles/bdf8777adf9ac9ca4319ddcb37255ee7e3e1cdb2-key"
+}
